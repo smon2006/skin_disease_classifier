@@ -1,0 +1,4 @@
+*.pth
+skindiseasedataset/
+skindiseasedataset.zip
+models/
